@@ -1,4 +1,4 @@
-简体中文 | [English](https://github.com/Zilean/Mnte)
+简体中文 | [English](https://github.com/sosout/mnte)
 
 # mnte ![download](https://img.shields.io/npm/dt/mnte.svg) ![npm-version](https://img.shields.io/npm/v/mnte.svg) ![license](https://img.shields.io/npm/l/mnte.svg)
 
