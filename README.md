@@ -6,9 +6,14 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Installation
 
+### npm
+
 ``` shell
 npm i mnte
 ```
+
+### CDN
+### jsdelivr
 ## Usage
 
 ### Demo1
