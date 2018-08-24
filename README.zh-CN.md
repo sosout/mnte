@@ -6,9 +6,24 @@
 
 ## 安装
 
+### npm
+
 ``` shell
 npm i mnte
 ```
+
+### CDN
+
+``` html
+<script src="https://unpkg.com/mnte@0.0.9/dist/mnte.js"></script>
+```
+
+### jsdelivr
+
+``` html
+<script src="https://cdn.jsdelivr.net/npm/mnte@0.0.9/dist/mnte.js"></script>
+```
+
 ## 用法
 
 ### 示例一
