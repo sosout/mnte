@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    div {
+      width: 100%;
+      height: 200px;
+    }
+  </style>
+  <script src="../../dist/mnte.js"></script>
+</head>
+<body>
+  <h2>Demo1</h2>
+  <div id="demo1"></div>
+  <script>
+    const demo1 = '<a class="mnte-tab" data-tab="{{id}}" id="__mnte_tab_{{id}}">{{name}}</a>';
+    document.getElementById('demo1').innerHTML = mnte(demo1, {id: 'demo1', name: 'This is Demo1!'});
+  </script>
+</body>
+</html>

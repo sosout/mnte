@@ -1,17 +1,17 @@
-English | [简体中文](./README.zh-CN.md)
+简体中文 | [English](https://github.com/Zilean/Mnte)
 
 # mnte ![download](https://img.shields.io/npm/dt/mnte.svg) ![npm-version](https://img.shields.io/npm/v/mnte.svg) ![license](https://img.shields.io/npm/l/mnte.svg)
 
-> A simple template engine.
+> 一个简单的模板引擎。
 
-## Installation
+## 安装
 
 ``` shell
 npm i mnte
 ```
-## Usage
+## 用法
 
-### Demo1
+### 示例一
 
 ``` html
 <!DOCTYPE html>
@@ -35,7 +35,7 @@ npm i mnte
 </html>
 ```
 
-Of course, you can also download first and then use it. It's at `mnte/dist`. `mnte.min.js` for production and `mnte.js` for development.
+当然，您也可以先下载然后直接使用它。它在`mnte/dist`目录下，生产环境用`mnte.min.js`，开发环境用`mnte.min.js`。
 
 ## License
 MIT
